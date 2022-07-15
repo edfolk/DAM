@@ -1,0 +1,1 @@
+/aula[puestos>30]
